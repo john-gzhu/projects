@@ -29,7 +29,7 @@ Set view background image with customized one
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/psDPmAm.gifv' title=‘Video Walkthrough' width='300' alt='Video Walkthrough' />
+[<img src='http://i.imgur.com/PJzPDeA.gifv' title=‘Video Walkthrough' width='300' alt='Video Walkthrough' />]
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -39,7 +39,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [TipApp] [John Zhu]
+    Copyright @2017 John Zhu
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
