@@ -29,7 +29,7 @@ Set view background image with customized one
 
 Here's a walkthrough of implemented user stories:
 
-[<img src='http://i.imgur.com/PJzPDeA.gifv' title=‘Video Walkthrough' width='300' alt='Video Walkthrough' />]
+[<img src='http://i.imgur.com/PJzPDeA.gif' title=‘Video Walkthrough' width='300' alt='Video Walkthrough' />]
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
